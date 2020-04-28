@@ -1,8 +1,8 @@
-NOTAS ;MATERIAS
-7,1;metodos estadisticos
-8,3;multimedia e interactividad 
-7,5;guion cinematografico 2
-9,7;modelado 3d organico
-8,9;animacion 3d
-9;videocomposicion dig 1
-8,1;ilum y text
+MATERIAS;NOTAS 
+metodos estadisticos;7,1
+multimedia e interactividad ;8,3
+guion cinematografico 2;7,5
+modelado 3d organico;9,7
+animacion 3d;8,9
+videocomposicion dig 1;9
+ilum y text;8,1
